@@ -8,8 +8,11 @@ __pycache__/
 # Project Specific
 logs/
 data/
-*.pdf
 .pytest_cache/
+
+# Ignore all PDFs EXCEPT the project reference manual
+*.pdf
+!Ultimate_Project_Reference_Manual.pdf
 
 # Dataset Files (Optional: keep if you want them in the repo)
 # eval_dataset.jsonl
