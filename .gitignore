@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+
+# Project Specific
+logs/
+data/
+*.pdf
+.pytest_cache/
+
+# Dataset Files (Optional: keep if you want them in the repo)
+# eval_dataset.jsonl
+# eval_dataset_tough5.jsonl

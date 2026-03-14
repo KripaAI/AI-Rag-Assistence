@@ -1,0 +1,14 @@
+﻿python-dotenv>=1.0.1
+openai>=1.65.0
+pinecone>=5.4.2
+PyMuPDF>=1.25.3
+pandas>=2.2.3
+streamlit>=1.43.2
+tenacity>=9.0.0
+ragas>=0.2.10
+datasets>=3.3.2
+langchain-openai>=0.3.8
+google-generativeai>=0.8.6
+langchain-google-genai>=2.0.11
+pytest>=8.3.5
+chardet<6

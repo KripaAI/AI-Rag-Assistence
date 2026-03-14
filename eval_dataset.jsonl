@@ -1,0 +1,2 @@
+﻿{"query":"What is retrieval-augmented generation?","ground_truth_answer":"RAG combines retrieval with generation to ground answers in external knowledge.","expected_sources":["1Introduction to Retrieval-Augmented Generation (RAG) Concepts, Architecture, and Applications.pdf"]}
+{"query":"Explain self-attention in transformers.","ground_truth_answer":"Self-attention lets each token weigh other tokens to build context-aware representations.","expected_sources":["4Large Language Models and Text Generation Transformers, Sampling, and Prompt Engineering.pdf"]}
